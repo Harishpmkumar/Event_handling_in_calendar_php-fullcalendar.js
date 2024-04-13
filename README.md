@@ -111,8 +111,8 @@ Note:- Make sure your table structure looks like below
 
 🎊🥂🎉  All the configuration is over  🎊🥂🎉
 
-<b>Step 7 : Go to your browser, then type <i>“[localhost/PHP_crud_ajax](http://localhost/PHP_crud_ajax/index.php)”</i>.</b>
-![Screenshot_11-3-2024_205514_localhost](https://github.com/Harishpmkumar/php_ajax_crud_project/assets/94518989/577f8612-2bd2-4d97-a01f-545801852d0f)
+<b>Step 7 : Go to your browser, then type <i>“[localhost/php-event-handling](http://localhost/php-event-handling/index.php)”</i>.</b>
+
 
 
 
