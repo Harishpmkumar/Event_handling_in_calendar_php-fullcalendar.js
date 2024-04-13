@@ -1,19 +1,15 @@
-# Event_handling_in_calendar_php-fullcalendar.js
-
-<h2>Event handling in calendar using PHP & Full-Calendar.js</h2>
-
-# Event Handling in Calendar
+# Event Handling in Calendar using PHP & Full-Calendar.js
 
 This project demonstrates an event handling calendar application using PHP and FullCalendar.js. The application allows users to create, edit, and delete events in a calendar, and also view detailed information about events.
 
 ## Table of Contents
 
 - [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Technologies](#technologies)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
 
