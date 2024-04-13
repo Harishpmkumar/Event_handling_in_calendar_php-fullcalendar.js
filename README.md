@@ -97,7 +97,7 @@ This project demonstrates an event handling calendar application using PHP and F
 
 Note:- Make sure your table structure looks like below
 
-![Screenshot_13-4-2024_20208_localhost](https://github.com/Harishpmkumar/Event_handling_in_calendar_php-fullcalendar.js/assets/94518989/31977f5a-59ea-40d7-a566-876c105978ce)
+![Screenshot_2024-04-13_14-56-10](https://github.com/Harishpmkumar/Event_handling_in_calendar_php-fullcalendar.js/assets/94518989/1d932eb0-bbf5-44db-8d31-5515808f0cc5)
 
 
 <b>Step 5 : Open the project folder in your code editor. I prefer vscode for code editing.</b>
