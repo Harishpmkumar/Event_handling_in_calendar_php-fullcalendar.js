@@ -88,7 +88,7 @@ This project demonstrates an event handling calendar application using PHP and F
 
 ![Screenshot 2024-02-04 130333](https://github.com/Harishpmkumar/Portfolio_PHP_project/assets/94518989/f4f6c1db-f6db-461a-aa03-371825f25b90)
 
-<b>Step 4 : Create a username, password for phpmyadmin access and create a database and table (create a table with name “crud“ and fields of id(primary key, int), email(varchar), password(varchar). If you dont know to create then refer this link. </b>
+<b>Step 4 : Create a username, password for phpmyadmin access and create a database and table (create a table with name “event_table“ and fields of id(primary key, int), event_title(varchar), event_description(text), start_date(datetime), end_date(datetime). If you dont know to create then refer this link. </b>
 <ul>
 <li><b>Create username and password - </b><a href="https://www.webserver.com.my/kb/creating-user-accounts-in-phpmyadmin/">Click !</a></li>
 
