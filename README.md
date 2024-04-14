@@ -102,17 +102,29 @@ Note:- Make sure your table structure looks like below
 
 <b>Step 5 : Open the project folder in your code editor. I prefer vscode for code editing.</b>
 
-![Screenshot (5)](https://github.com/Harishpmkumar/php_ajax_crud_project/assets/94518989/390676a4-844e-4e69-89cf-8ed9a9aac42d)
+![Screenshot 2024-04-14 155043](https://github.com/Harishpmkumar/Event_handling_in_calendar_php-fullcalendar.js/assets/94518989/9562f3be-fe1c-4307-96ea-c6c595519f47)
 
 
 <b>Step 6 : Open <i>“config.php”</i> file and change your username, password and database in the file.</b>
 
- ![Screenshot (6)](https://github.com/Harishpmkumar/php_ajax_crud_project/assets/94518989/fbfde0ea-b9ad-4404-a580-1dd2dae9706e)
+![Screenshot 2024-04-14 155043](https://github.com/Harishpmkumar/Event_handling_in_calendar_php-fullcalendar.js/assets/94518989/33d197fc-d68c-4da0-b06a-ae53ed509979)
 
 
 🎊🥂🎉  All the configuration is over  🎊🥂🎉
 
 <b>Step 7 : Go to your browser, then type <i>“[localhost/php-event-handling](http://localhost/php-event-handling/index.php)”</i>.</b>
+
+![Screenshot 2024-04-14 155329](https://github.com/Harishpmkumar/Event_handling_in_calendar_php-fullcalendar.js/assets/94518989/1b790b7b-6565-4e02-8fab-1e25ed892848)
+
+![Screenshot 2024-04-14 155356](https://github.com/Harishpmkumar/Event_handling_in_calendar_php-fullcalendar.js/assets/94518989/df87b06d-170b-424e-8a01-9efef652c081)
+
+![Screenshot 2024-04-14 155524](https://github.com/Harishpmkumar/Event_handling_in_calendar_php-fullcalendar.js/assets/94518989/b1a1a267-f8bc-4688-8980-658a9991fe91)
+
+![Screenshot 2024-04-14 155549](https://github.com/Harishpmkumar/Event_handling_in_calendar_php-fullcalendar.js/assets/94518989/fe41db49-6478-45aa-92fe-71245d9ce292)
+
+![Screenshot 2024-04-14 155611](https://github.com/Harishpmkumar/Event_handling_in_calendar_php-fullcalendar.js/assets/94518989/1dda20a8-a6d8-4889-bcd3-9ea863758192)
+
+
 
 
 
