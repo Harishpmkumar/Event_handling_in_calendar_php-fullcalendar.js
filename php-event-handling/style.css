@@ -1,0 +1,231 @@
+/* Reset default margin and padding, set box-sizing to border-box */
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+/* Style for event heading */
+.event-heading {
+  color: #ac2626;
+}
+
+/* Style for calendar container */
+#calendar {
+  width: 100%;
+  height: 600px;
+}
+
+/* Style for today date background color in calendar */
+.fc .fc-daygrid-day.fc-day-today {
+  background-color: rgb(217, 255, 215);
+}
+
+/* Style for the toolbar title in FullCalendar */
+.fc-toolbar-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #115b04;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: #f2f2f2;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+/* Style for calendar header cells */
+.fc-col-header-cell-cushion {
+  text-decoration: none;
+  color: rgb(170, 4, 123);
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+/* Style for calendar day numbers */
+.fc-daygrid-day-number {
+  text-decoration: none;
+  color: navy;
+  font-weight: bold;
+}
+
+/* Style for calendar events */
+.fc-daygrid-event {
+  height: 30px;
+  background-color: green;
+  border: 1px solid green;
+}
+
+/* Style for event titles */
+.fc-event-title {
+  margin-left: 5px;
+  margin-top: 3px;
+}
+
+/* Style for modal content */
+.modal-content {
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+/* Style for modal headers */
+.modal-header {
+  border-bottom: none;
+}
+
+/* Style for form labels */
+.form-label {
+  font-weight: bold;
+}
+
+/* Style for form controls */
+.form-control {
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+/* Style for success buttons */
+.btn-success {
+  background-color: #198754;
+  border-color: #198754;
+}
+
+/* Style for hover state of success buttons */
+.btn-success:hover {
+  background-color: #2ba76d;
+}
+
+/* Style for event details modal header */
+.eventdetails-modal-header {
+  background-color: #6c757d;
+  color: white;
+  border-bottom: none;
+}
+
+/* Style for event description header */
+.event-description h6 {
+  margin-bottom: 0;
+  color: #6c757d;
+}
+
+/* Style for event description textarea */
+.description-textarea {
+  display: block;
+  width: 95%;
+  height: 120px;
+  padding: 10px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  background-color: #f8f9fa;
+  font-family: inherit;
+  font-size: 1rem;
+  overflow-y: auto;
+  white-space: pre-wrap;
+  color: #495057;
+}
+
+/* Style for event time header */
+.event-time h6 {
+  margin-bottom: 0;
+  color: #6c757d;
+}
+
+/* Style for event time text */
+.event-time p {
+  font-weight: bold;
+}
+
+/* Style for event details modal footer */
+.eventdetails-modal-footer {
+  background-color: #f8f9fa;
+  border-top: 1px solid #dee2e6;
+  padding: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 0 0 12px 12px;
+}
+
+/* Style for event details modal footer buttons */
+.eventdetails-modal-footer button {
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  margin-right: 8px;
+}
+
+/* Style for event details modal footer warning button */
+.eventdetails-modal-footer .btn-warning {
+  background-color: #f0ad4e;
+  border-color: #eea236;
+}
+
+/* Style for event details modal footer danger button */
+.eventdetails-modal-footer .btn-danger {
+  background-color: #d9534f;
+  border-color: #d43f3a;
+}
+
+/* Style for event details modal footer secondary button */
+.eventdetails-modal-footer .btn-secondary {
+  background-color: #6c757d;
+  border-color: #6c757d;
+}
+
+/* Style for hover state of event details modal footer buttons */
+.eventdetails-modal-footer button:hover {
+  opacity: 0.9;
+}
+
+/* Style for edit event modal header */
+.edit-event-modal .modal-header {
+  background-color: orange;
+  color: white;
+}
+
+/* Style for edit event modal body */
+.edit-event-modal .modal-body {
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+/* Style for edit event modal footer buttons */
+.edit-event-modal .modal-footer button {
+  width: 100%;
+}
+
+/* Style for edit description textarea */
+.edit-description-textarea {
+  height: 120px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ced4da;
+}
+
+/* Style for edit event modal form controls */
+.edit-event-modal .form-control {
+  border-radius: 5px;
+}
+
+/* Style for instruction button tooltip arrow */
+#instructionButton .tooltip-arrow {
+  border-top-color: #410707 !important;
+}
+
+/* Style for tooltip inner */
+.tooltip-inner {
+  font-size: 10px;
+  font-family: Arial, sans-serif;
+  line-height: 1.4;
+  white-space: pre-line;
+  background-color: #2ba76d;
+}
+
+/* Style for instruction button tooltip inner */
+.instructionButton-tooltip .tooltip-inner {
+  color: #fff;
+  font-size: 12px;
+  background-color: lightslategray;
+}
