@@ -11,7 +11,6 @@ This project demonstrates an event handling calendar application using PHP and F
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -102,7 +101,7 @@ Note:- Make sure your table structure looks like below
 
 <b>Step 5 : Open the project folder in your code editor. I prefer vscode for code editing.</b>
 
-![Screenshot 2024-04-14 155043](https://github.com/Harishpmkumar/Event_handling_in_calendar_php-fullcalendar.js/assets/94518989/9562f3be-fe1c-4307-96ea-c6c595519f47)
+![Screenshot 2024-04-14 155232](https://github.com/Harishpmkumar/Event_handling_in_calendar_php-fullcalendar.js/assets/94518989/80e1dcf3-260a-4c31-b0c0-3f29787cc086)
 
 
 <b>Step 6 : Open <i>“config.php”</i> file and change your username, password and database in the file.</b>
@@ -127,6 +126,13 @@ Note:- Make sure your table structure looks like below
 
 
 
+## Contributing
 
+Contributions are welcome! Please open an issue or submit a pull request on GitHub.
+
+
+---
+
+Thank you for using the Event Handling in Calendar application! If you encounter any issues or have suggestions for improvement, feel free to open an issue or contribute to the project. Enjoy using the calendar!
 
 
